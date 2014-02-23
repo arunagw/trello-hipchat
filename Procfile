@@ -1,0 +1,1 @@
+worker: ruby lib/trello-hipchat.rb --hipchat-username-to-display $HIPCHAT_USERNAME_TO_DISPLAY --hipchat-token $HIPCHAT_TOKEN --hipchat-room $HIPCHAT_ROOM --trello-board-id $TRELLO_BOARD_ID --trello-api-key $TRELLO_API_KEY --trello-api-token $TRELLO_API_TOKEN --update-interval $UPDATE_INTERVAL

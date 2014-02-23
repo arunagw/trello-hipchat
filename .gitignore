@@ -1,0 +1,6 @@
+*.gem
+.bundle
+pkg/*
+.yardoc
+doc
+.env
